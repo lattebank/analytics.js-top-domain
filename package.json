@@ -1,6 +1,6 @@
 {
-  "name": "@segment/top-domain",
-  "version": "3.0.0",
+  "name": "@lattebank/analytics.js-top-domain",
+  "version": "3.0.0-1",
   "description": "Finds the top domain for a URL",
   "keywords": [
     "domain",
@@ -12,17 +12,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/segmentio/top-domain"
+    "url": "https://github.com/lattebank/analytics.js-top-domain"
   },
-  "author": "Segment <friends@segment.com>",
+  "author": "Segment <friends@segment.com>, xushuaizhe <xushuaizhe@lattebank.com>",
   "license": "SEE LICENSE IN LICENSE",
   "bugs": {
-    "url": "https://github.com/segmentio/top-domain/issues"
+    "url": "https://github.com/lattebank/analytics.js-top-domain/issues"
   },
-  "homepage": "https://github.com/segmentio/top-domain#readme",
+  "homepage": "https://github.com/lattebank/analytics.js-top-domain#readme",
   "dependencies": {
-    "component-cookie": "^1.1.2",
-    "component-url": "^0.2.1"
+    "@lattebank/analytics.js-component-cookie": "1.1.2-1",
+    "component-url": "0.2.1"
   },
   "devDependencies": {
     "@segment/eslint-config": "^3.1.1",
